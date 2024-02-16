@@ -1,0 +1,146 @@
+#root {
+  margin: 0;
+  text-align: center;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+.main {
+  display: flex;
+  flex-direction: row;
+}
+
+.left {
+  background-color: rgb(23, 99, 99);
+  width: 35vw;
+}
+
+.right {
+  display: flex;
+  background-color: aliceblue;
+  width: 65vw;
+  aspect-ratio: 1 / 1.414;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.general h2 {
+  box-shadow: 0px 0px 10px 5px rgba(0, 0, 0, 0.1);
+}
+
+.profile h2,
+h3 {
+  box-shadow: 0px 0px 10px 5px rgba(0, 0, 0, 0.1);
+}
+
+.fab {
+  position: fixed;
+  bottom: 70px;
+  right: 20px;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  background-color: #f50057;
+  color: white;
+  text-align: center;
+  line-height: 60px;
+  font-size: 24px;
+}
+
+.error {
+  color: #f50057;
+}
+
+/* .react-date-picker__wrapper->.react-date-picker__inputGroup*/
+.react-date-picker__inputGroup {
+  background-color: #242424;
+  color: #fff;
+  border-radius: 10px;
+}
+
+input {
+  background-color: #242424;
+  color: #fff;
+  border: 1px solid #fff;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.divider {
+  width: 100%;
+  height: 1rem;
+  margin-top: 1rem;
+  background-color: rgba(0, 0, 0, 0.1);
+  border: solid rgba(0, 0, 0, 0.15);
+  border-width: 1px 0;
+  box-shadow: inset 0 0.5em 1.5em rgba(0, 0, 0, 0.1),
+    inset 0 0.125em 0.5em rgba(0, 0, 0, 0.15);
+}
+
+.submenu {
+  display: flex;
+  position: fixed;
+  bottom: 90px;
+  right: 20px;
+
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+}
+
+.submenu button {
+  color: #f9f9f9;
+  background-color: #f50057;
+  padding: 12px 16px;
+  text-align: left;
+  text-decoration: none;
+  font-size: 16px;
+  border: none;
+  width: 100%;
+}
+
+.submenu button:hover {
+  background-color: #ff4081;
+  color: #fff;
+}
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+  bottom: auto;
+}
+
+.colorPickers {
+  display: flex;
+  justify-content: space-between;
+  padding: 5px;
+}
+
+.author {
+  display: flex;
+  justify-content: space-between;
+  padding: 5px;
+  color: rgb(23, 99, 99);
+}
+
+.general {
+  width: 33.33%;
+  padding-top: 30px;
+}
+
+.profile {
+  width: 66.66%;
+}
+
+h2 {
+  padding: 10px;
+  margin: 0;
+}

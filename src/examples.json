@@ -1,0 +1,77 @@
+[
+  {
+    "general": {
+      "name": "John Doe",
+      "email": "john@example.com",
+      "phone": "123-456-7890",
+      "address": "123 Main St, Anytown, USA"
+    },
+    "profile": "I am a highly motivated individual with a passion for learning and problem-solving.",
+    "education": [
+      {
+        "school": "University of Example",
+        "degree": "B.S. in Example Studies",
+        "start": "2015",
+        "end": "2019"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Example Company",
+        "position": "Example Position",
+        "start": "05/2019",
+        "end": "10/2021"
+      }
+    ]
+  },
+  {
+    "general": {
+      "name": "Alice Bob",
+      "email": "alice@example.com",
+      "phone": "098-765-4321",
+      "address": "456 Main St, Anytown, USA"
+    },
+    "profile": "I am a dedicated and detail-oriented professional seeking new challenges and opportunities.",
+    "education": [
+      {
+        "school": "Example University",
+        "degree": "M.S. in Example Studies",
+        "start": "2015",
+        "end": "2020"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Unemployed Co.",
+        "position": "Student",
+        "start": "01/2020",
+        "end": "Present"
+      }
+    ]
+  },
+  {
+    "general": {
+      "name": "Bob Smith",
+      "email": "bob@example.com",
+      "phone": "111-222-3333",
+      "address": "789 Main St, Anytown, USA"
+    },
+    "profile": "I am a results-driven professional with a strong background in research and analysis.",
+    "education": [
+      {
+        "school": "Example College",
+        "degree": "Ph.D. in Example Studies",
+        "start": "2010",
+        "end": "2018"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Yet Another Example Company",
+        "position": "Yet Another Example Position",
+        "start": "10/2018",
+        "end": "Present"
+      }
+    ]
+  }
+]
