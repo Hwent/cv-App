@@ -15,4 +15,4 @@ This is a simple CV generator app. It allows users to create a CV by filling out
 - Vite
 - immer
 
-Link to the app: [CV Generator App](https://hwent.github.io/cvApp//)
+Link to the app: [CV Generator App](https://hwent.github.io/cv-App/)
